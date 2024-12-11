@@ -46,7 +46,6 @@ A powerful Flask-based RESTful API that provides various AI-powered text process
 4. Create a `.env` file in the root directory and add your OpenAI API key:
    ```
    OPENAI_API_KEY=your-openai-api-key-here
-   SECRET_KEY=your-secret-key-here
    ```
 
 ## Running the Application
