@@ -1,6 +1,6 @@
 # AI Flask API
 
-A powerful Flask-based RESTful API that provides various AI-powered text processing and analysis endpoints using OpenAI's GPT models.
+A simple Flask-based RESTful API that provides various AI-powered text processing and analysis endpoints using OpenAI's GPT models.
 
 ## Features
 
