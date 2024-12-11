@@ -108,3 +108,11 @@ def prompt():
 
     writing_prompt = ai_services.generate_writing_prompt(data['genre'])
     return jsonify({'prompt': writing_prompt})
+
+
+@api.route('/test', methods=['GET'])
+def test():
+    return jsonify({
+        'status': 'success',
+        'message': 'API is working correctly'
+    })
